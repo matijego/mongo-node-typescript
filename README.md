@@ -44,7 +44,7 @@ _Si retornan como respuesta la versión de programa instalado en su terminal, si
 ## Autores ✒️
 
 
-* **Matias Gonzalez** - desarrollo de script y documentación - [matias.gonzalez](http://fabrica.faniot.ar:90/matias.gonzalez)
+* **Matias Gonzalez** - desarrollo de script y documentación - [matijego](https://github.com/matijego)
 
 
 ---
